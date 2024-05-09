@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iOS版本列表</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        .project-list {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .project-list button {
+            margin: 5px;
+            padding: 8px 16px;
+            background-color: #9CAF90;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            opacity: 0.7; /* 默认状态下的透明度 */
+        }
+        .project-list button.selected {
+            background-color: #45a049; /* 选定状态下的颜色 */
+            opacity: 1; /* 选定状态下的透明度 */
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 10px 0;
+            border-bottom: 1px solid #ccc;
+        }
+        li:last-child {
+            border-bottom: none;
+        }
+        .version {
+            font-weight: bold;
+        }
+        .download-link {
+            margin-left: 10px;
+            color: blue;
+            text-decoration: none;
+        }
+        .download-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>iOS版本列表</h1>
+    <div class="project-list">
+        <button id="xc" onclick="showVersions('xcList.txt')" class="selected">xc</button>
+        <button id="eon2" onclick="showVersions('eonList.txt')">eon2</button>
+        <button id="moyu" onclick="showVersions('moyuList.txt')">moyu</button>
+        <!-- Add more project buttons as needed -->
+    </div>
+    <ul id="version-list">
+        <!-- iOS version lists will be dynamically populated here -->
+    </ul>
+</div>
+
+<script>
+    // Show versions for the selected project
+    function showVersions(projectFile) {
+        var versionList = document.getElementById('version-list');
+        versionList.innerHTML = ''; // Clear previous version list
+        
+        // Remove 'selected' class from all buttons
+        var buttons = document.querySelectorAll('.project-list button');
+        
+
+        // Add 'selected' class to the clicked button
+        // if (!isFrist) {
+            buttons.forEach(function(button) {
+                button.classList.remove('selected');
+            });
+            event.target.classList.add('selected');
+            // console.log(event.target.id);
+            window.location.hash = `#/${event.target.id}`;
+        // }
+        
+        
+        // Fetch project data from the text file
+        fetch(projectFile)
+        .then(response => response.text())
+        .then(data => {
+            // Populate version list based on selected project
+            var versions = data.split('\n');
+            versions.forEach(function(version) {
+                var versionInfo = version.trim().split(',,');
+                if (versionInfo.length >= 2) {
+                    versionList.innerHTML += `
+                        <li>
+                            <span class="version">${versionInfo[0]}</span> ${versionInfo[1]}
+                            <a class="download-link" href="${versionInfo[2] ?? '#'}">online</a>
+                            <a class="download-link" href="${versionInfo[3] ?? '#'}">pre</a>
+                        </li>
+                    `;
+                }
+            });
+        })
+        .catch(error => console.error('Error fetching project data:', error));
+    }
+
+    // Show versions for the default selected project on page load
+    const path = window.location.hash;
+    switch (path) {
+        // case '#/xc':
+        // showVersions('xcList.txt',true);
+        // break;
+        case '#/eon2':
+        // showVersions('eonList.txt',true);
+        document.getElementById('eon2').click();
+        break;
+        case '#/moyu':
+        // showVersions('moyuList.txt',true);
+        document.getElementById('moyu').click();
+        break;
+        default:
+        // showVersions('xcList.txt',true);
+        document.getElementById('xc').click();
+        break;
+    }
+    
+</script>
+
+</body>
+</html>

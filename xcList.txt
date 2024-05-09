@@ -1,0 +1,7 @@
+最新版,,最近更新,,https://www.fluwioiw.com/xcAppRelease0320,,https://www.fluwioiw.com/xcAppPre
+1.1.5(176),,5月8日,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/663b467d7782337c4601a1c6,,
+1.1.5(176),,5月8日,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/663b467d7782337c4601a1c6,,
+1.1.5(176),,5月8日,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/663b467d7782337c4601a1c6,,
+1.1.5(176),,5月8日,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/663b467d7782337c4601a1c6,,
+1.1.5(176),,5月8日,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/663b467d7782337c4601a1c6,,
+1.1.5(176),,5月8日,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/663b467d7782337c4601a1c6,,
