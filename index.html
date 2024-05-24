@@ -111,9 +111,8 @@
                 if (versionInfo.length >= 2) {
                     versionList.innerHTML += `
                         <li>
-                            <span class="version">${versionInfo[0]}</span> ${versionInfo[1]}
-                            <a class="download-link" href="${versionInfo[2] ?? '#'}">online</a>
-                            <a class="download-link" href="${versionInfo[3] ?? '#'}">pre</a>
+                            <span class="version">${versionInfo[0]}&nbsp;&nbsp;&nbsp;&nbsp;${versionInfo[1]}&nbsp;&nbsp;&nbsp;&nbsp;${versionInfo[2]}</span>
+                            <a class="download-link" href="${versionInfo[2] ?? '#'}">下载</a>
                         </li>
                     `;
                 }

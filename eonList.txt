@@ -1,1 +1,4 @@
-最新版,,最近更新,,https://www.fluwioiw.com/eon2release,,https://www.fluwioiw.com/eon2predebug
+1.0.9(148),,2024-05-23,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/660a1ce47782337c4601a041/664f1efc7782337c4601a26f
+1.0.9(148),,2024-05-23,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/660a17b87782337c4601a03f/664f1dff7782337c4601a26e
+1.0.9(147),,2024-05-23,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/660a1ce47782337c4601a041/664ea48d7782337c4601a262
+1.0.9(147),,2024-05-23,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/660a17b87782337c4601a03f/664ea39d7782337c4601a261

@@ -1,2 +1,11 @@
-最新版,,最近更新,,https://www.fluwioiw.com/xcAppRelease0320,,https://www.fluwioiw.com/xcAppPre
-1.1.5(176),,5月8日,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/663b467d7782337c4601a1c6,,
+1.1.7(200),,2024-05-24,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/664fe9d17782337c4601a272
+1.1.7(200),,2024-05-24,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/664fe8e17782337c4601a271
+1.1.7(199),,2024-05-23,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/664f1b847782337c4601a26d
+1.1.7(199),,2024-05-23,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/664f1a027782337c4601a26c
+1.1.7(198),,2024-05-23,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/664ec3767782337c4601a266
+1.1.7(198),,2024-05-23,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/664ec2827782337c4601a265
+1.1.7(197),,2024-05-22,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/664db3097782337c4601a25d
+1.1.7(197),,2024-05-22,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/664db0c07782337c4601a25c
+1.1.7(196),,2024-05-22,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/664d559e7782337c4601a258
+1.1.7(196),,2024-05-22,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/664d54a07782337c4601a257
+1.1.5(176),,5月8日,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/663b467d7782337c4601a1c6,,
