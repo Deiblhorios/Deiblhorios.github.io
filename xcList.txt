@@ -1,3 +1,36 @@
+1.2.0(289),,2024-06-15 06:45:24,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666cc8037782337c4601a3eb
+1.2.0(289),,2024-06-15 06:43:20,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666cc7877782337c4601a3ea
+1.2.0(287),,2024-06-15 06:02:47,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666cbe067782337c4601a3e9
+1.2.0(287),,2024-06-15 05:59:48,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666cbd537782337c4601a3e8
+1.2.0(282),,2024-06-15 02:34:38,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666c8d3d7782337c4601a3dd
+1.2.0(282),,2024-06-15 02:31:34,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666c8c857782337c4601a3dc
+1.2.0(279),,2024-06-14 23:26:24,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666c611f7782337c4601a3d7
+1.2.0(279),,2024-06-14 23:23:14,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666c60617782337c4601a3d6
+1.2.0(272),,2024-06-13 12:36:05,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666a77347782337c4601a3b8
+1.2.0(272),,2024-06-13 12:32:06,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666a76467782337c4601a3b7
+1.2.0(271),,2024-06-13 09:13:54,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666a47d27782337c4601a3b6
+1.2.0(271),,2024-06-13 09:09:42,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666a46d67782337c4601a3b5
+1.2.0(269),,2024-06-12 15:05:20,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666948af7782337c4601a3ae
+1.2.0(269),,2024-06-12 15:01:50,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666947dd7782337c4601a3ad
+1.1.9(266),,2024-06-12,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666940057782337c4601a3ac
+1.1.9(268),,2024-06-12,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/66693f127782337c4601a3ab
+1.2.0(265),,2024-06-12,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666918f57782337c4601a3aa
+1.2.0(267),,2024-06-12,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666918047782337c4601a3a9
+1.2.0(266),,2024-06-12,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666916a97782337c4601a3a8
+1.2.0(264),,2024-06-12,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666913557782337c4601a3a7
+1.2.0(265),,2024-06-12,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666912617782337c4601a3a6
+1.2.0(263),,2024-06-12,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/6669035d7782337c4601a3a5
+1.2.0(264),,2024-06-12,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666902697782337c4601a3a4
+1.2.0(261),,2024-06-11,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/6667e7857782337c4601a393
+1.2.0(261),,2024-06-11,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/6667e6b47782337c4601a392
+1.1.9(259),,2024-06-10,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/666684aa7782337c4601a383
+1.1.9(259),,2024-06-10,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/666683f07782337c4601a382
+1.1.9(258),,2024-06-10,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/66665abc7782337c4601a381
+1.1.9(258),,2024-06-10,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/6666599a7782337c4601a380
+1.1.8(257),,2024-06-07,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/6662e0ba7782337c4601a37a
+1.1.8(257),,2024-06-07,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/6662dff77782337c4601a379
+1.1.9(255),,2024-06-07,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/6662c8057782337c4601a372
+1.1.9(255),,2024-06-07,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/6662c74c7782337c4601a371
 1.1.8(254),,2024-06-07,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/6662a2f77782337c4601a36f
 1.1.8(254),,2024-06-07,,正式服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65f812707782337c46019fb0/6662a24a7782337c4601a36e
 1.1.8(251),,2024-06-06,,测试服,,itms-services://?action=download-manifest&url=https://www.fluwioiw.com/api/plist/65e6dd4d7782337c46019f4f/66616c637782337c4601a36b
